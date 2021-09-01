@@ -1,3 +1,7 @@
+<div>
+  <img align="center" alt="Hello-there" src="https://c.tenor.com/0Akz_GWDQyQAAAAd/star-wars-hello-there.gif">
+</div>
+
 <div style="display: inline_block">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=higor-bianchetti&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-bianchetti&layout=compact&langs_count=5&theme=algolia"/>
@@ -21,10 +25,5 @@
 
 <a href = "mailto:higorbianchetti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/higor-bianchetti-144108122" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-##
-<div>
-  <img align="center" alt="Hello-there" src="https://c.tenor.com/0Akz_GWDQyQAAAAd/star-wars-hello-there.gif">
-</div>
 
 ##
