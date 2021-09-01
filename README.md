@@ -2,6 +2,8 @@
   <img align="center" alt="Hello-there" src="https://c.tenor.com/0Akz_GWDQyQAAAAd/star-wars-hello-there.gif">
 </div>
 
+##
+
 <div style="display: inline_block">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=higor-bianchetti&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-bianchetti&layout=compact&langs_count=5&theme=algolia"/>
