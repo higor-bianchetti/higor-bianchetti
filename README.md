@@ -3,11 +3,6 @@
 </div>
 
 ##
-
-<div style="display: inline_block">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=higor-bianchetti&hide=issues,contribs&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor-bianchetti&layout=compact&langs_count=5&theme=algolia"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
